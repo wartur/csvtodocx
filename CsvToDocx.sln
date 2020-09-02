@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvToDocx", "CsvToDocx\CsvToDocx.csproj", "{163C21C6-2E0B-4881-8D16-FCA40BF2ADED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163C21C6-2E0B-4881-8D16-FCA40BF2ADED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163C21C6-2E0B-4881-8D16-FCA40BF2ADED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163C21C6-2E0B-4881-8D16-FCA40BF2ADED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163C21C6-2E0B-4881-8D16-FCA40BF2ADED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DDC9C42-3041-437D-932C-3F508CDAB494}
+	EndGlobalSection
+EndGlobal
