@@ -2,9 +2,9 @@
 Это проект простого генератора файлов docx из шаблонов на основании таблицы xlsx.
 
 ## Как использовать ##
-Скачайте https://github.com/wartur/csvtodocx/raw/master/bin.zip и распакуйте.
-Перейдите в директорию bin\data
-Запустите ярлык программы csvtodocx
+- Скачайте https://github.com/wartur/csvtodocx/raw/master/bin.zip и распакуйте.
+- Перейдите в директорию bin\data
+- Запустите ярлык программы csvtodocx.bat
 
 Там все примеры есть, все понятно. Если не запускается установится последнюю версию .net framework
 https://dotnet.microsoft.com/download/dotnet-core/current/runtime
