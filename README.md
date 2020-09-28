@@ -6,9 +6,8 @@
 Перейдите в директорию bin\data
 Запустите ярлык программы csvtodocx
 
-
 Там все примеры есть, все понятно. Если не запускается установится последнюю версию .net framework
-https://www.microsoft.com/ru-RU/download/details.aspx?id=56116
+https://dotnet.microsoft.com/download/dotnet-core/current/runtime
 
 ## Известные баги ##
 Работа с docx файлами корявая. Ворд очень странно размечает файлы и порой плейсхолдеры перестают работать он их разделяет тегами и str_replace перестает его чувстовать.
