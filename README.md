@@ -8,7 +8,7 @@
 - Прочитайте файл _КАК_РАБОТАТЬ_С_ПРОГРАММОЙ
 - Запустите программу csvtodocx.bat
 
-Там все примеры есть, все должно быть понятно
+Там все примеры есть, все должно быть понятно.
 В основе программы лежат 2 библиотеки:
 - https://www.microsoft.com/ru-ru/download/details.aspx?id=48145 (Распространяемый пакет Visual C++ для Visual Studio 2015)
 - https://dotnet.microsoft.com/download/dotnet-core/current/runtime (Download .NET Core 3.1 Runtime)
